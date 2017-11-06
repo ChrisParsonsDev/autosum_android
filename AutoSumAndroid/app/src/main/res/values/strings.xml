@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoSumAndroid</string>
+    <string name="resultPlaceholder">0000</string>
+    <string name="inputPlaceholder">0</string>
+</resources>
